@@ -1,0 +1,4 @@
+http://127.0.0.1:5000/                 --------home 
+http://127.0.0.1:5000/send-test-email  --------test email 
+http://127.0.0.1:5000/process-events  --------to send birthday email for employees
+http://127.0.0.1:5000/logs  --------logs for emails
